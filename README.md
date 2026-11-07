@@ -1,10 +1,10 @@
-# MarketSignal — Retail Intelligence Platform
+# Markvue — Retail Intelligence Platform
 
 > Portfolio showcase only. The source code, production configuration, datasets, and credentials are private and are not included in this repository.
 
-![MarketSignal dashboard with synthetic portfolio data](assets/dashboard.png)
+![Markvue dashboard overview](assets/markvue-overview.png)
 
-MarketSignal is a **B2B retail-intelligence SaaS prototype** I built to turn fragmented public market activity into structured, reviewable business intelligence. It connects collection workflows, quality controls, historical records, dashboards, and reporting in one product.
+Markvue, formerly MarketSignal, is a **B2B retail-intelligence SaaS prototype** I built to turn fragmented public market activity into structured, reviewable business intelligence. It connects collection workflows, quality controls, historical records, dashboards, and reporting in one product.
 
 ## Business problem
 
@@ -35,9 +35,13 @@ flowchart LR
 
 Next.js · React · TypeScript · PostgreSQL · Supabase · Crawlee · Playwright · Apify · GitHub Actions · PowerPoint generation
 
-## Portfolio-data note
+## Interface previews
 
-The screenshot comes from the real application interface, rendered with browser-only synthetic records. It contains no production metrics, client records, credentials, or confidential source material.
+![Markvue dashboard in dark mode](assets/markvue-dark.png)
+
+![Textured DX Products 3D models](assets/markvue-3d.png)
+
+The dashboard screenshots use an isolated empty-state preview of the current interface. The 3D images show original Blender product renders. Refrigerator interiors are illustrative. No production metrics, client records, credentials, or confidential source material appear.
 
 ## Ownership
 
